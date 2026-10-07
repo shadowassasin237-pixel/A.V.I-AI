@@ -2,7 +2,7 @@
 
 A holographic desktop voice assistant built in Python with a **red Ultron-inspired command center GUI**, **Inworld TTS-2** voice (Indian English, voice: **Arjun**), **OpenRouter** LLM brain, and **LiveKit** real-time audio.
 
-Built by **Arnav Kumar** as a school project.
+Built by **Arnav Kumar** as a public project.
 
 ---
 
