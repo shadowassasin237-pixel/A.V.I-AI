@@ -1,0 +1,25 @@
+# A.V.I. - Artificial Voice Intelligence
+
+livekit==1.1.18
+livekit-agents==1.8.2
+livekit-plugins-openai
+livekit-plugins-silero
+
+# Desktop audio playback + microphone support
+numpy>=1.26
+sounddevice>=0.5.1
+
+# Optional/local microphone compatibility
+SpeechRecognition>=3.10
+PyAudio>=0.2.13
+Pillow>=10.0
+opencv-python>=4.9
+openai>=1.40
+
+# OpenRouter / web tools
+ddgs>=9.0
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+
+python-dotenv>=1.0
