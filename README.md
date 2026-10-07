@@ -43,6 +43,7 @@ pip install -r requirements.txt
 # 4. Configure your .env (copy .env.example)
 copy .env.example .env
 # Edit .env with your OPENROUTER_API_KEY, LIVEKIT_URL, LIVEKIT_API_KEY, LIVEKIT_API_SECRET
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser for scripts disabled
 
 # 5. Launch
 python app.py
